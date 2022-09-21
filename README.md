@@ -1,9 +1,11 @@
-# Halo semua! 
+# Hi FELLAZ! 
 
-Perkenalkan nama saya **Bintang Rizqi Pasha**.
+Dia adalah **Bintang Rizqi Pasha**.
 
-Saya seorang **Mahasiswa** di [Institut Teknologi Telkom Purwokerto(ITTP)](https://s1if.ittelkom-pwt.ac.id/).
+Dia seorang **Mahasiswa** di [Institut Teknologi Telkom Purwokerto(ITTP)](https://s1if.ittelkom-pwt.ac.id/).
 
-Saya tertarik dibidang **Web Development [front end & back end]** 
+Saya tertarik dibidang **Web Development [front end & back end] but i like the most is to be fullstack DEV** 
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/bintang-rizqi-pasha-8a1111211/) ku ya.
+Let's connect [Linkedin](https://www.linkedin.com/in/bintangrp).
+
+**I better than this** that's my magic word haha.
